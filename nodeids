@@ -1,0 +1,4 @@
+[
+  "tests/test_main.py::test_get_sheep",
+  "tests/test_main.py::test_update_sheep"
+]
